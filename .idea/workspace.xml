@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28f085f-b9dc-4441-878e-89ada7c87538" name="Changes" comment="update repositiorio oppenbootcamp">
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/Ejercicio1A.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/Ejercicio1B.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/Ejercicio1C.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/Ejercicio1D.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/Ejercicio1E.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/Lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/lista_radiobutton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Openbootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Openbootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/GUI_Tipo_Geometria_tkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios_Openbootcamp/Python/Tema10/GUI_Tipo_Geometria_tkinter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ShowUsagesActions.previewPropertyKey": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "last_opened_file_path": "C:/Users/ferra/OneDrive/Tesla/Economia",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659957107463</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update repositiorio oppenbootcamp">
+      <created>1659977859167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659977859167</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

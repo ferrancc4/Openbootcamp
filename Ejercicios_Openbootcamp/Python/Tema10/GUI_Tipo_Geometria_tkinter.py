@@ -38,8 +38,8 @@ label6.pack(ipadx=15, ipady=15, side='right')
 # (0,2)      (1,2)      (2,2)  fila 2
 # (0,3)      (1,3)      (2,3)  fila 3
 
-window_grid.columnconfigure(0, weight=1)
-window_grid.columnconfigure(0, weight=3)
+window_grid.columnconfigure(0, weight=1)  # el weight és l'ample de la columna
+window_grid.columnconfigure(1, weight=3)
 
 ## USUARI
 # Etiqueta usuari

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}Director - {{ persona.nombre }}{% endblock %}
+
+{% block header-title %}{{ persona }}{% endblock %}
+
+{% block content %}
+<p>{{ persona.nacimiento}}{% if persona.defuncion %} - {{ persona.defuncion }}{% endif %}</p>
+<h4>Premios</h4>
+<p>{% if persona.premios %}{{ persona.premios | linebreaks }}{% endif %}</p>
+<h4>Película - Año de estreno</h4>
+<table>
+    <tr>
+    {% for pelicula in peliculas %}
+        <td onclick="window.location.href='/pelicula/{{pelicula.id}}'">
+            <span>{{ pelicula }} - </span>
+            <span>{{ pelicula.estreno }}</span><br>
+        </td>
+        {% cycle '' '' '</tr><tr>' %}
+    {% empty %}
+        <td>No hay peliculas aún</td>
+    {% endfor %}
+    </tr>
+</table>
+{% endblock %}

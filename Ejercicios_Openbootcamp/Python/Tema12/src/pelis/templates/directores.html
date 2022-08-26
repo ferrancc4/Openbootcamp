@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Directores{% endblock %}
+
+
+{% block content %}
+    {% for director in directores_list %}
+            <p><a href="{{ director.get_absolute_url }}">{{ director }}{% if director.defuncion %}  &dagger;{% endif %}</a></p>
+            <p>Fecha nacimiento: {{ director.nacimiento }}<p>
+            <p>{% if director.defuncion %}Fecha defunción: {{ director.defuncion }}{% endif %}<p><br>
+    {% empty %}
+        <td>No hay directores aún</td>
+    {% endfor %}
+{% endblock %}

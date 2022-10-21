@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4986c0d2-f448-4b8e-99af-d860a4ac1159" name="Changes" comment="Curs java">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios_Openbootcamp.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tema2/src/com/example/HolaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema2/src/prova.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18 (2)",
-    "last_opened_file_path": "C:/Users/ferra/Documents/GitHub/Openbootcamp/Ejercicios_Openbootcamp/Java/Tema1",
+    "last_opened_file_path": "C:/Users/ferra/Documents/GitHub/Openbootcamp/Ejercicios_Openbootcamp/Java/Tema2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
